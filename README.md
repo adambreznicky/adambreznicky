@@ -1,4 +1,4 @@
-<p class="text-white bg-gray-dark" align="center">
+<p class="bg-gray-dark" align="center">
     <a href="https://adambreznicky.com">
         <img src="https://github.com/adambreznicky/adambreznicky/raw/master/assets/satan_kiss.gif" alt="Satan Smooch" />
     </a>
