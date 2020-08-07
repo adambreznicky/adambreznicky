@@ -1,4 +1,6 @@
 <p align="center">
+    <span>"the art of space and time"</span>
+    <br>
     <a href="https://adambreznicky.com">
         <img src="https://github.com/adambreznicky/adambreznicky/raw/master/assets/satan_kiss.gif" alt="Satan Smooch" />
     </a>
